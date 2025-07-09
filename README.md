@@ -1,5 +1,6 @@
 # Air-Quality-Prediction-Bangalore
-This project aims to predict the Air Quality Index (AQI) in Bengaluru using historical pollution data and modern machine learning techniques. A Random Forest Regressor is trained and fine-tuned using the Grey Wolf Optimizer (GWO), resulting in enhanced accuracy and automated hyperparameter tuning for AQI forecasting.
+This project aims to predict the Air Quality Index (AQI) in Bengaluru using historical pollution data and modern machine learning techniques.
+A Random Forest Regressor is trained and fine-tuned using the Grey Wolf Optimizer (GWO), resulting in enhanced accuracy and automated hyperparameter tuning for AQI forecasting.
 
 1. Objectives
 
