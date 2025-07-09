@@ -38,5 +38,7 @@ Key contributing pollutants and trends were highlighted via visual insights.
 4. Visualizations
 
 AQI trend over time
+
 Contribution of pollutants to AQI
+
 Comparison of predicted vs actual AQI values
